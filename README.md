@@ -12,3 +12,17 @@
 - Cách khắc phục: Thử đăng nhập lại, hỏi Owner về quyền admin hoặc nếu bạn đã bị BAN thì có thể gửi đơn khiếu nại cho đội quản lý tại cskh@ckbot.ga
 <img src="https://cdn.discordapp.com/attachments/774241371534917665/867324328676425728/unknown.png">
 
+### 4. Bot thường xuyên bị Offline
+Hiện tại bot đang trong quá trình thử nghiệm, tức là BETA nên bot sẽ thường xuyên offline để cải thiện các tính năng mới.
+### 5. Website bị 500 ERROR
+Như Vấn đề 4.
+## Hỏi đáp
+### 1. Tôi bị BAN, tại sao lại vậy?
+Đáp: Chả có gì là ngẫu nhiên cả. Bạn có thể đã thử HACK website hoặc HACK bot và dẫn đến bị BAN.
+### 2. Có cách nào gỡ BAN không?
+Đáp: Thực ra là có. Bạn có thể gửi mail đến cskh@ckbot.ga với nội dung bao gồm:
+- Discord ID và Username + Tag của bạn
+- Hình ảnh bạn bị BAN tại website hoặc hình ảnh bạn bị BAN khi nhắn tin với bot
+- Lý do bạn bị BAN (Hãy trung thực khai báo bạn đã làm gì để dẫn tới bị BAN)
+
+Lưu ý là có thể mất từ 3-4 ngày làm việc để team có thể UNBAN bạn.
