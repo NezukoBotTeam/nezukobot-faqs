@@ -20,7 +20,7 @@ Như Vấn đề 4.
 ### 1. Tôi bị BAN, tại sao lại vậy?
 Đáp: Chả có gì là ngẫu nhiên cả. Bạn có thể đã thử HACK website hoặc HACK bot và dẫn đến bị BAN.
 ### 2. Có cách nào gỡ BAN không?
-Đáp: Thực ra là có. Bạn có thể gửi mail đến cskh@ckbot.ga với nội dung bao gồm:
+Đáp: Thực ra là có. Bạn có thể gửi mail đến cskh@nezukobot.tk với nội dung bao gồm:
 - Discord ID và Username + Tag của bạn
 - Hình ảnh bạn bị BAN tại website hoặc hình ảnh bạn bị BAN khi nhắn tin với bot
 - Lý do bạn bị BAN (Hãy trung thực khai báo bạn đã làm gì để dẫn tới bị BAN)
