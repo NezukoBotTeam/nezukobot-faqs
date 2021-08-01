@@ -26,3 +26,7 @@ Như Vấn đề 4.
 - Lý do bạn bị BAN (Hãy trung thực khai báo bạn đã làm gì để dẫn tới bị BAN)
 
 Lưu ý là có thể mất từ 3-4 ngày làm việc để team có thể UNBAN bạn.
+### 3. Tôi tìm thấy bug, phải làm sao?
+Đáp: Bạn hãy vào đường link [này](https://manage.nezukobot.tk/bug_report.php), đăng nhập vào tài khoản của bạn và ghi rõ bug bạn gặp phải. Các ADMIN sẽ xem xét và hỗ trợ bạn nhanh nhất có thể
+### 4. Website bị chậm?
+Đáp: Thật ra thì nó không chậm như bạn nghĩ đâu. Hãy đảm bảo bạn có kết nối Internet đủ mạnh để load trang web
