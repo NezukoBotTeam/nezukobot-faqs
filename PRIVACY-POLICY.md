@@ -9,6 +9,7 @@ Quan trọng là bạn cần thường xuyên kiểm tra lại để xem các b�
 - [Chúng tôi bảo vệ dữ liệu của bạn như thế nào?](#chúng-tôi-bảo-vệ-dữ-liệu-của-bạn-như-thế-nào)
 - [Dữ liệu của bạn sẽ đi về đâu?](#dữ-liệu-của-bạn-sẽ-đi-về-đâu)
 - [Quyền của bạn](#quyền-của-bạn)
+- [Ghi công](#ghi-công)
 ## Chúng tôi thu thập thông tin gì?
 NezukoBot thu thập thông tin cá nhân của bạn theo nhiều cách như:
 - Thu thập thông tin người dùng(Không bao gồm mật khẩu và tài khoản Discord của người dùng)
