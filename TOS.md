@@ -36,3 +36,6 @@ Chúng tôi sử dụng trình độ chuyên môn và mức độ cẩn trọng 
 Những cam kết duy nhất mà chúng tôi đưa ra về các dịch vụ của chúng tôi (bao gồm cả nội dung trong các dịch vụ, những chức năng cụ thể của các dịch vụ, hoặc mức độ tin cậy, sự sẵn có hay khả năng đáp ứng các nhu cầu của bạn của các dịch vụ đó) (1) được mô tả trong phần Đảm bảo, (2) được quy định trong các luật hiện hành. Chúng tôi không đưa ra cam kết nào khác về các dịch vụ của chúng tôi.
 
 Và trừ khi luật pháp bắt buộc, chúng tôi không đưa ra tuyên bố đảm bảo ngầm định, chẳng hạn như những tuyên bố đảm bảo ngầm định về tính có thể bán được, mức độ thích hợp cho một mục đích cụ thể và tính không vi phạm.
+
+<br>
+<p>&copy;CKBOT 2021. Bảo lưu mọi quyền.</p>
