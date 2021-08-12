@@ -4,6 +4,11 @@
 - [Nhà cung cấp dịch vụ](#nhà-cung-cấp-dịch-vụ)
 - [Yêu cầu về độ tuổi](#yêu-cầu-về-độ-tuổi)
 - [Trách nhiệm của chúng tôi](#trách-nhiệm-của-chúng-tôi)
+- [Trách nhiệm của bạn](#trách-nhiệm-của-bạn)
+- [Phần mềm trong các dịch vụ của NezukoBot](#phần-mềm-trong-các-dịch-vụ-của-nezukobot)
+- [Trong trường hợp xảy ra vấn đề hoặc bất đồng](#trong-trường-hợp-xảy-ra-vấn-đề-hoặc-bất-đồng)
+- [Đảm bảo](#đảm-bảo)
+- [Tuyên bố từ chối trách nhiệm](#tuyên-bố-từ-chối-trách-nhiệm)
 ## Nhà cung cấp dịch vụ
 Các nhà cung cấp dịch vụ được chúng tôi sử dụng:
 - VNPT
