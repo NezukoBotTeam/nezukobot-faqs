@@ -2,6 +2,13 @@
 Chính sách bảo mật thông tin cá nhân này áp dụng đối với Discord Bot, trang web của NezukoBot có tham chiếu đến hoặc liên kết đến Chính sách bảo mật thông tin cá nhân (gọi chung là “Dịch vụ”).
 Quan trọng là bạn cần thường xuyên kiểm tra lại để xem các bản cập nhật về Chính sách bảo mật. Chúng tôi có thể cập nhật định kỳ Chính sách bảo mật này để phản ánh những thay đổi trong cách chúng tôi xử lý thông tin cá nhân liên quan đến Dịch vụ hoặc những thay đổi trong luật hiện hành. Chúng tôi sẽ đăng thông báo trên trang web của chúng tôi để thông báo trước cho bạn về những thay đổi quan trọng trong Chính sách bảo mật và chỉ rõ ở phần đầu của Chính sách bảo mật thời điểm cập nhật gần đây nhất. Phiên bản mới nhất của Chính sách bảo mật sẽ luôn có sẵn ở [đây](https://github.com/NezukoBotTeam/nezukobot-faqs/blob/main/PRIVACY-POLICY.md).
 ## Danh sách
+- [Privacy Policy](#)
+- [Chúng tôi thu thập thông tin gì?](#chúng-tôi-thu-thập-thông-tin-gì)
+- [Chúng tôi sử dụng thông tin của bạn như thế nào?](#chúng-tôi-sử-dụng-thông-tin-của-bạn-như-thế-nào)
+- [Chúng tôi chia sẻ thông tin của bạn với ai?](#chúng-tôi-chia-sẻ-thông-tin-của-bạn-với-ai)
+- [Chúng tôi bảo vệ dữ liệu của bạn như thế nào?](#chúng-tôi-bảo-vệ-dữ-liệu-của-bạn-như-thế-nào)
+- [Dữ liệu của bạn sẽ đi về đâu?](#dữ-liệu-của-bạn-sẽ-đi-về-đâu)
+- [Quyền của bạn](#quyền-của-bạn)
 ## Chúng tôi thu thập thông tin gì?
 NezukoBot thu thập thông tin cá nhân của bạn theo nhiều cách như:
 - Thu thập thông tin người dùng(Không bao gồm mật khẩu và tài khoản Discord của người dùng)
@@ -26,3 +33,5 @@ Chúng tôi rất coi trọng công tác bảo vệ dữ liệu. Chúng tôi đ�
 Việc bạn sử dụng Dịch vụ của chúng tôi sẽ liên quan đến việc chuyển, lưu trữ và xử lý thông tin cá nhân của bạn trong và ngoài quốc gia cư trú của bạn, phù hợp với chính sách này. Đặc biệt, thông tin cá nhân của bạn sẽ được chuyển đến Nước CHXHCN Việt Nam. Xin lưu ý rằng việc bảo vệ dữ liệu và các luật khác của quốc gia mà thông tin của bạn có thể được chuyển giao có thể không toàn diện như tại quốc gia của bạn.
 ## Quyền của bạn:
 Thông tin cá nhân của bạn thuộc về bạn. Bạn có thể yêu cầu chúng tôi cung cấp chi tiết về những gì chúng tôi đã thu thập và bạn có thể yêu cầu chúng tôi xóa nó hoặc sửa bất kỳ điểm không chính xác nào. Bạn cũng có thể yêu cầu chúng tôi giới hạn hoặc hạn chế việc xử lý, chia sẻ hoặc truyền thông tin cá nhân của bạn, cũng như cung cấp cho bạn thông tin cá nhân của bạn mà chúng tôi đã thu thập để bạn có thể sử dụng nó cho mục đích riêng của mình. Tuy nhiên, việc yêu cầu xóa thông tin cá nhân của bạn cũng có thể dẫn đến mất quyền truy cập vào Dịch vụ mà chúng tôi cung cấp. Chúng tôi sẽ không xóa dữ liệu mà chúng tôi phải giữ lại theo quy định của pháp luật.
+### Ghi công
+<p>&copy;CKBOT 2021. Bảo lưu mọi quyền</p>
