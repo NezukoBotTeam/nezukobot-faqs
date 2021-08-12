@@ -1,6 +1,7 @@
 # Điều khoản dịch vụ của NezukoBot
 Điều khoản này được xem như là một hợp đồng giữa bên cung cấp dịch vụ A (NezukoBot) và bên B (Bạn). Bằng việc sử dụng dịch vụ của chúng tôi, bạn đồng ý với [Điều khoản dịch vụ](https://github.com/NezukoBotTeam/nezukobot-faqs/blob/main/TOS.md) và [Chính sách riêng tư](https://github.com/NezukoBotTeam/nezukobot-faqs/blob/main/PRIVACY-POLICY.md) của NezukoBot.
 ## Danh sách
+- [TOS](#)
 - [Nhà cung cấp dịch vụ](#nhà-cung-cấp-dịch-vụ)
 - [Yêu cầu về độ tuổi](#yêu-cầu-về-độ-tuổi)
 - [Trách nhiệm của chúng tôi](#trách-nhiệm-của-chúng-tôi)
