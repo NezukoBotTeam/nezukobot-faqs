@@ -44,6 +44,5 @@ Những cam kết duy nhất mà chúng tôi đưa ra về các dịch vụ củ
 
 Và trừ khi luật pháp bắt buộc, chúng tôi không đưa ra tuyên bố đảm bảo ngầm định, chẳng hạn như những tuyên bố đảm bảo ngầm định về tính có thể bán được, mức độ thích hợp cho một mục đích cụ thể và tính không vi phạm.
 
-<br>
 ## Ghi công
 <p>&copy;CKBOT 2021. Bảo lưu mọi quyền.</p>
