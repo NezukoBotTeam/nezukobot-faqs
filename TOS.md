@@ -30,6 +30,7 @@ Ngoài ra, chúng tôi có trách nhiệm bảo vệ quyền riêng tư của b�
 Quyền mà chúng tôi đã cấp cho bạn để sử dụng các dịch vụ của chúng tôi sẽ tiếp tục có hiệu lực miễn là bạn thực hiện đầy đủ trách nhiệm của mình theo:
 - Các điều khoản này
 - Các điều khoản bổ sung dành riêng cho từng dịch vụ
+- 
 Mặc dù chúng tôi cấp cho bạn quyền sử dụng các dịch vụ của chúng tôi, nhưng chúng tôi vẫn bảo lưu mọi quyền sở hữu trí tuệ mà chúng tôi có đối với các dịch vụ.
 ## Phần mềm trong các dịch vụ của NezukoBot
 Chúng tôi cung cấp cho bạn một số phần mềm như Website, ... Bạn hoàn toàn có thể sử dụng miễn phí các phần mềm đó theo Giấy phép được cấp. Giấy phép bao gồm:
