@@ -23,6 +23,7 @@ Chúng tôi cung cấp dịch vụ chịu trách nhiệm trên Điều khoản n
 - Discord Bot
 - Website
 - Website OAuth2 Login System
+
 Ngoài ra, chúng tôi có trách nhiệm bảo vệ quyền riêng tư của bạn.
 ## Trách nhiệm của bạn
 ### Tuân thủ Điều khoản
