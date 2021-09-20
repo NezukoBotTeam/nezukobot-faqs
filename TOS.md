@@ -48,3 +48,5 @@ Và trừ khi luật pháp bắt buộc, chúng tôi không đưa ra tuyên bố
 
 ## Ghi công
 <p>&copy;CKBOT 2021. Bảo lưu mọi quyền.</p>
+
+Liên hệ hỗ trợ: support@info.nezukobot.xyz
