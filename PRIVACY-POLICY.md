@@ -36,3 +36,5 @@ Việc bạn sử dụng Dịch vụ của chúng tôi sẽ liên quan đến vi
 Thông tin cá nhân của bạn thuộc về bạn. Bạn có thể yêu cầu chúng tôi cung cấp chi tiết về những gì chúng tôi đã thu thập và bạn có thể yêu cầu chúng tôi xóa nó hoặc sửa bất kỳ điểm không chính xác nào. Bạn cũng có thể yêu cầu chúng tôi giới hạn hoặc hạn chế việc xử lý, chia sẻ hoặc truyền thông tin cá nhân của bạn, cũng như cung cấp cho bạn thông tin cá nhân của bạn mà chúng tôi đã thu thập để bạn có thể sử dụng nó cho mục đích riêng của mình. Tuy nhiên, việc yêu cầu xóa thông tin cá nhân của bạn cũng có thể dẫn đến mất quyền truy cập vào Dịch vụ mà chúng tôi cung cấp. Chúng tôi sẽ không xóa dữ liệu mà chúng tôi phải giữ lại theo quy định của pháp luật.
 ### Ghi công
 <p>&copy;CKBOT 2021. Bảo lưu mọi quyền</p>
+
+Liên hệ hỗ trợ: support@info.nezukobot.xyz
